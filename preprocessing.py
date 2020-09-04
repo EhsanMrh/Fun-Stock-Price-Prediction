@@ -35,4 +35,5 @@ def preprocess_data(df):
             'valid_data' : valid_data,
             'x_train' : x_train,
             'y_train' : y_train,
+            'scaler' : scaler
             }
